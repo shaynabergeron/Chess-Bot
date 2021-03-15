@@ -1,5 +1,5 @@
 # Chess-Bot
-A chess bot which doesn't select its next move at random. 
+Created in my Artificial Intelligence class: A chess bot which doesn't select its next move at random. 
 Uses deep iterative search methods and alpha beta pruning for min and max. 
 Able to evaluate each State, return the current state of the moves that are the most desirable for the player. 
 
